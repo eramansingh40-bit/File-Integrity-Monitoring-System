@@ -1,1 +1,7 @@
+During no file integrity : 
+touch important.txt
+echo "Hello Amandeep" > important.txt
 
+During file integrity:
+touch important.txt
+echo "Hello Amandeep. How are you?" > important.txt
